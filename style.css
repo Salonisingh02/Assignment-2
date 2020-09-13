@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url("img1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+  width: 100px;
+
+}
+
+table {
+
+  border-collapse: collapse;
+  border: 1px solid black;
+  margin: 250px auto auto auto;
+
+
+}
+
+th,td {
+  border: 1px solid black;
+  padding: 15px;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+.saloni {
+  background-color: red;
+}
+
+.one {
+  background-color: #ffa372;
+}
+.two {
+  background-color: #ed6663;
+}
+.three{
+  background-color: #ffa372;
+}
+.four {
+  background-color: #ed6663;
+}
